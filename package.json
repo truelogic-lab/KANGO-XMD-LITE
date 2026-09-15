@@ -8,7 +8,7 @@
     "npm": ">= 10.x"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "Hector Manuel",
   "license": "MIT",
